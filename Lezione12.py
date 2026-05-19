@@ -131,6 +131,7 @@ def gioco_impiccato():
     print(f"💥 HAI PERSO! La parola segreta era: '{parola_segreta}'.")
 
 # Per avviare il gioco basta chiamare la funzione:
-gioco_impiccato()
+gioco_impiccato() #qui inizia il programma 
+
 
 
