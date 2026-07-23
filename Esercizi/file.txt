@@ -1,0 +1,13 @@
+Paolino Paperino, 9, giugno, 1934, 93, M, paolino.paperin0@disney.org
+
+Ron Weasley, 1, marzo, 1980, 46, M, ron_weasley80@hogwards.uk
+
+Ramona Flowers, 19, ottobre, 2004, 22, F, ramona.fls@gmail.com
+
+Madoka Ayukawa, 25, maggio, 1969, 57, F, madoka_sax@asahi_net.jp
+
+Gianluca Riva, 10, Maggio, 2002, 24, M, gian@gmail.com
+
+Dalila Andreetta, 21, Febbraio, 2009, 17, F, dalila@gmail.com
+
+Clelia, 30, agosto , 2002, 24, F, clelia@gmail.com
